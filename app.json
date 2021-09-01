@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "MobileChallenge2021",
+    "slug": "MobileChallenge2021",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MobileChallenge2021"
+}
